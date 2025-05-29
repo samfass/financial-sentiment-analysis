@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Data files
+*.csv
+*.pickle
+*.pkl
